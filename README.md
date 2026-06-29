@@ -19,9 +19,9 @@ This project provides an automated solution for detecting and extracting vehicle
 
 ## Methodology
 The algorithm follows these core steps:
-1. [cite_start]Capture Input Image [cite: 374, 375]
-2. [cite_start]Extract Y component (Grayscale conversion) [cite: 376, 377]
-3. [cite_start]Noise Removal [cite: 378, 379]
-4. [cite_start]Dilation Morphology [cite: 380, 381]
-5. [cite_start]Horizontal and Vertical Edge Processing [cite: 385, 387, 408]
-6. [cite_start]Segmentation [cite: 389, 390]
+1. Capture Input Image
+2. Extract Y component (Grayscale conversion)
+3. Noise Removal
+4. Dilation Morphology
+5. Horizontal and Vertical Edge Processing
+6. Segmentation
